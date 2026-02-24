@@ -84,8 +84,3 @@ NEXT_PUBLIC_FIREBASE_APP_ID = your-firebase-app-id
 ```sh
 npm run dev
 ```
-
-## Contact
-
-
-Project Link: [https://github.com/toptalhook/next-e-commerce](https://github.com/toptalhook/next-e-commerce)
